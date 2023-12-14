@@ -1,7 +1,7 @@
-#React + TS + Tailwind CSS
+<h1>React + TS + Tailwind CSS</h1>
 
-<h1>Output Design</h2>
-![outputeDesign](outputdesign.png)
+<h2>Output Design</h2>
+![My Image](outputdesign.png)
 
 <h2>Features</h2>
 <li>validate form if input is empty</li>
